@@ -7,6 +7,8 @@ categories:
   - Tech
 tags:
   - technology
+authors:
+  - team
 ---
 
 # My Third Blog Post

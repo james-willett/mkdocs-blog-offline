@@ -5,6 +5,8 @@ categories:
   - Life
 tags:
   - life updates
+authors:
+  - james
 ---
 
 # Life update

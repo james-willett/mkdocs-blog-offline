@@ -8,6 +8,8 @@ categories:
 tags:
   - technology
   - life updates
+authors:
+  - squidfunk
 ---
 
 # My Second Post!

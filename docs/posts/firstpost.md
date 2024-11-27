@@ -5,6 +5,9 @@ categories:
   - Tech
 tags:
   - technology
+authors:
+  - team
+  - james
 ---
 
 # My First Blog Post

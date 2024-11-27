@@ -1,0 +1,14 @@
+authors:
+  james:
+    name: James Willett
+    description: Developer
+    avatar: https://avatars.githubusercontent.com/u/6908294
+    url: https://www.youtube.com/@james-willett?sub_confirmation=1
+  team:
+    name: Team
+    description: Creator
+    avatar: https://simpleicons.org/icons/materialformkdocs.svg
+  squidfunk:
+    name: Martin Donath
+    description: Creator
+    avatar: https://github.com/squidfunk.png
