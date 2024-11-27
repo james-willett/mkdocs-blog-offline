@@ -5,6 +5,8 @@ date:
 readtime: 5
 categories:
   - Tech
+tags:
+  - technology
 ---
 
 # My Third Blog Post

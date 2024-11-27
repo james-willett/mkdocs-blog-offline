@@ -3,6 +3,8 @@ date:
   created: 2024-11-06
 categories:
   - Tech
+tags:
+  - technology
 ---
 
 # My First Blog Post

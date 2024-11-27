@@ -29,3 +29,5 @@ plugins:
       categories_allowed:
         - Tech
         - Life
+  - tags:
+      tags_file: tags.md

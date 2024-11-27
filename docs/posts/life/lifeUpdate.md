@@ -3,6 +3,8 @@ date:
   created: 2024-06-07
 categories:
   - Life
+tags:
+  - life updates
 ---
 
 # Life update

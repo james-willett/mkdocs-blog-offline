@@ -5,6 +5,9 @@ draft: true
 categories:
   - Tech
   - Life
+tags:
+  - technology
+  - life updates
 ---
 
 # My Second Post!
