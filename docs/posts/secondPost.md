@@ -2,6 +2,9 @@
 date:
   created: 2023-05-09
 draft: true
+categories:
+  - Tech
+  - Life
 ---
 
 # My Second Post!

@@ -1,6 +1,8 @@
 ---
 date:
   created: 2024-11-06
+categories:
+  - Tech
 ---
 
 # My First Blog Post
