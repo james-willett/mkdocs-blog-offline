@@ -39,6 +39,16 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
+  - git-committers:
+      enabled: true
+      repository: james-willett/mkdocs-blog-offline
+      branch: main
+      token: !ENV GH_TOKEN
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: false
+      enable_creation_date: true
+      enabled: true
 
 extra:
   analytics:
