@@ -1,12 +1,13 @@
 ---
 date:
-  created: 2023-05-09
-draft: true
+  created: 2024-06-07
 ---
 
-# My Second Post!
+# Life update
 
-This is my second blog post. I'm actually setting it as a draft so it doesn't appear yet...
+This is a blog post about some life updates...
+
+![Cartoon Software Engineer](cartoonEngineer1.png)
 
 <!-- more -->
 
