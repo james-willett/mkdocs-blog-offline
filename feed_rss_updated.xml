@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Our Awesome Blog</title>
+    <description>A blogging site built with MkDocs Material</description>
+    <link>https://sitename.example/</link>
+    <atom:link href="https://sitename.example/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    
+    
+    <language>en</language>
+
+    
+    <pubDate>Wed, 27 Nov 2024 15:52:02 -0000</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2024 15:52:02 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.16.0</generator>
+
+    
+    
+
+    
+    
+    <item>
+      <title>My Third Blog Post</title>
+      
+      
+        
+      <author>team</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;My Third Blog Post&lt;/h1&gt;
+&lt;p&gt;This is the text for my third blog post.&lt;/p&gt;</description>
+      <link>https://sitename.example/my-third-blog-post/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">Our Awesome Blog</source>
+      
+      <guid isPermaLink="true">https://sitename.example/my-third-blog-post/</guid>
+      
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      
+      
+        
+      <author>team</author>
+        
+      <author>james</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;My First Blog Post&lt;/h1&gt;
+&lt;p&gt;This is the text for my first blog post. :simple-facebook:&lt;/p&gt;</description>
+      <link>https://sitename.example/my-first-post/</link>
+      <pubDate>Wed, 27 Nov 2024 15:51:31 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">Our Awesome Blog</source>
+      
+      <guid isPermaLink="true">https://sitename.example/my-first-post/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Life update</title>
+      
+      
+        
+      <author>james</author>
+        
+      
+      
+      
+      <description>&lt;h1&gt;Life update&lt;/h1&gt;
+&lt;p&gt;This is a blog post about some life updates...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Cartoon Software Engineer&#34; src=&#34;cartoonEngineer1.png&#34;&gt;&lt;/p&gt;</description>
+      <link>https://sitename.example/life-update/</link>
+      <pubDate>Wed, 27 Nov 2024 15:51:31 +0000</pubDate>
+      <source url="https://sitename.example/feed_rss_updated.xml">Our Awesome Blog</source>
+      
+      <guid isPermaLink="true">https://sitename.example/life-update/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

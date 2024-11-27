@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Our Awesome Blog",
+    "home_page_url": "https://sitename.example/",
+    "feed_url": "https://sitename.example/feed_json_updated.json",
+    "description": "A blogging site built with MkDocs Material",
+    "icon": null,
+    "authors": [],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://sitename.example/my-third-blog-post/",
+            "url": "https://sitename.example/my-third-blog-post/",
+            "title": "My Third Blog Post",
+            "content_html": "<h1>My Third Blog Post</h1>\n<p>This is the text for my third blog post.</p>",
+            "image": null,
+            "date_modified": "2024-12-08T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "team"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://sitename.example/my-first-post/",
+            "url": "https://sitename.example/my-first-post/",
+            "title": "My First Blog Post",
+            "content_html": "<h1>My First Blog Post</h1>\n<p>This is the text for my first blog post. :simple-facebook:</p>",
+            "image": null,
+            "date_modified": "2024-11-27T15:51:31+00:00",
+            "authors": [
+                {
+                    "name": "team"
+                },
+                {
+                    "name": "james"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://sitename.example/life-update/",
+            "url": "https://sitename.example/life-update/",
+            "title": "Life update",
+            "content_html": "<h1>Life update</h1>\n<p>This is a blog post about some life updates...</p>\n<p><img alt=\"Cartoon Software Engineer\" src=\"cartoonEngineer1.png\"></p>",
+            "image": null,
+            "date_modified": "2024-11-27T15:51:31+00:00",
+            "authors": [
+                {
+                    "name": "james"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}
