@@ -8,6 +8,7 @@ tags:
 authors:
   - team
   - james
+slug: my-first-post
 ---
 
 # My First Blog Post

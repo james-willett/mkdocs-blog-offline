@@ -29,5 +29,6 @@ plugins:
       categories_allowed:
         - Tech
         - Life
+      post_url_format: "{slug}"
   - tags:
       tags_file: tags.md
