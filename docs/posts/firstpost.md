@@ -13,7 +13,7 @@ slug: my-first-post
 
 # My First Blog Post
 
-This is the text for my first blog post.
+This is the text for my first blog post. :simple-facebook:
 
 <!-- more -->
 
