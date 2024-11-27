@@ -1,4 +1,26 @@
-site_name: My Docs
+site_name: Our Awesome Blog
+site_description: A blogging site built with MkDocs Material
 site_url: https://sitename.example
 theme:
   name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep orange
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+plugins:
+  - search
+  - blog:
+      blog_dir: . # Adding this to create a dedicated blog without other documentation
