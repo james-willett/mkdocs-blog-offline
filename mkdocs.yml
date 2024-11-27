@@ -3,6 +3,7 @@ site_description: A blogging site built with MkDocs Material
 site_url: https://sitename.example
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Dark Mode
     - scheme: slate
